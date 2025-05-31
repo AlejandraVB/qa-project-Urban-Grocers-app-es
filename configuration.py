@@ -1,3 +1,3 @@
-URL_SERVICE = # Inserta tu dirección de URL sin la barra diagonal al final
-CREATE_USER_PATH = # Almacena la ruta para crear un usuario o usuaria en esta variable
-KITS_PATH = # Almacena la ruta para crear un kit en esta variable
+URL_SERVICE = "https://cnt-33ba1acd-aa31-470a-a1c8-0b92a5caa4fd.containerhub.tripleten-services.com" #URL Servidor
+CREATE_USER_PATH = "/api/v1/users/" #Crear usuario
+KITS_PATH = "/api/v1/kits/" #Crear kits
