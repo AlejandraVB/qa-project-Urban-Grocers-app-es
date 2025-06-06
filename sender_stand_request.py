@@ -14,9 +14,10 @@ def get_new_user_token():
     print("Status Code:", response.status_code)
     print("Response Text:", response.text)
     return response.json()['authToken']
+
 # Crear un nuevo kit
 def post_new_client_kit(kit_body,auth_token):
     headers={'Authorization': f'Bearer {auth_token}'}
     return requests.post (configuration.URL_SERVICE + configuration.KITS_PATH,
-                          json=data.kit_body,
+                          json=kit_body,
                           headers=headers)
