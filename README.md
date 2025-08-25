@@ -1,9 +1,6 @@
 # Proyecto Urban Grocers 
 Nombre: Maria Alejandra Velez
 
-Grupo: 29 
-Sprint 7
-
 
 Descripción: 
 En este proyecto vamos a evaluar que la herrramienta siga los requerimientos establecidos al momento de ingresar un nuevo kit. De lo contrario, no debería permitir agregar los kits si incumple con alguna de los requerimeintos, para ello se realizan 9 pruebas en total 
