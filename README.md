@@ -25,10 +25,6 @@ En total se diseñaron y ejecutaron **9 casos de prueba** para garantizar la con
 - Automatizé validaciones de datos y status codes, mejorando la cobertura de pruebas.  
 - Aseguré la integridad de los datos en operaciones de compra y contribuí a mejorar la documentación técnica de la API.
 
-## Condiciones previas: 
-- Descargar el código
-- Abrir Pycharm
-- Necesitas tener instalados los paquetes pytest y requests para ejecutar las pruebas.
-- Ejecuta todas las pruebas con el comando pytest.
-- Lenguaje de programación Python
+## 📂 Documentación Adicional
+[![Excel](https://img.shields.io/badge/📊_Casos_de_Prueba_Manual-00C853?style=for-the-badge&logo=google-drive&logoColor=white)]([AQUI_VA_TU_LINK](https://docs.google.com/spreadsheets/d/1xjXjnbyk9-gTVNHpWAn2BQJYOW2ciN3O/edit?usp=sharing&ouid=112904952008345113055&rtpof=true&sd=true))
 
