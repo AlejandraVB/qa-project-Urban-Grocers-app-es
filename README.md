@@ -25,7 +25,7 @@ En total se diseñaron y ejecutaron **9 casos de prueba** para garantizar la con
 - Automatizé validaciones de datos y status codes, mejorando la cobertura de pruebas.  
 - Aseguré la integridad de los datos en operaciones de compra y contribuí a mejorar la documentación técnica de la API.
 
-##◾️ Condiciones previas: 
+## Condiciones previas: 
 - Descargar el código
 - Abrir Pycharm
 - Necesitas tener instalados los paquetes pytest y requests para ejecutar las pruebas.
