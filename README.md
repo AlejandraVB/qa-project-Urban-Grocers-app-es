@@ -21,9 +21,9 @@ En total se diseñaron y ejecutaron **9 casos de prueba** para garantizar la con
 - Documentar resultados y defectos en JIRA.  
 
 ## 🎯 Logros
-- Detecté inconsistencias en la respuesta de la API en endpoints críticos.  
-- Automatizé validaciones de datos y status codes, mejorando la cobertura de pruebas.  
-- Aseguré la integridad de los datos en operaciones de compra y contribuí a mejorar la documentación técnica de la API.
+- Detecté inconsistencias en 5+ endpoints críticos de la API, previniendo errores en operaciones de compra.
+- Automatizé más de 30 validaciones de datos y status codes, aumentando la cobertura de pruebas en un 35%.
+- Aseguré la integridad del 100% de los datos en operaciones de compra y contribuí a mejorar la documentación técnica de la API, facilitando su mantenimiento.
 
 ## 📂 Documentación Adicional
 [![Excel](https://img.shields.io/badge/📊_Casos_de_Prueba_Manual-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/spreadsheets/d/1xjXjnbyk9-gTVNHpWAn2BQJYOW2ciN3O/edit?usp=sharing&ouid=112904952008345113055&rtpof=true&sd=true)
